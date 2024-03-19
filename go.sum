@@ -1,0 +1,10 @@
+github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
+github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+github.com/xagero/go-helper v0.1.0 h1:HN/Q/k0HNsWvV3r2BnNk3/FQN3mUkMGykZi6xksYBEU=
+github.com/xagero/go-helper v0.1.0/go.mod h1:LO7ytVjrum5EjjWxkXf9OHmydgvEU73i9AV0WLcsGI4=
+github.com/xagero/go-helper v0.1.1 h1:fCwNW/rUZSUql7IqStGgNF9fHb2Z96R7WCIoqAlkS2s=
+github.com/xagero/go-helper v0.1.1/go.mod h1:LO7ytVjrum5EjjWxkXf9OHmydgvEU73i9AV0WLcsGI4=
+golang.org/x/exp v0.0.0-20240314144324-c7f7c6466f7f h1:3CW0unweImhOzd5FmYuRsD4Y4oQFKZIjAnKbjV4WIrw=
+golang.org/x/exp v0.0.0-20240314144324-c7f7c6466f7f/go.mod h1:CxmFvTBINI24O/j8iY7H1xHzx2i4OsyguNBmN/uPtqc=
+golang.org/x/exp v0.0.0-20240318143956-a85f2c67cd81 h1:6R2FC06FonbXQ8pK11/PDFY6N6LWlf9KlzibaCapmqc=
+golang.org/x/exp v0.0.0-20240318143956-a85f2c67cd81/go.mod h1:CQ1k9gNrJ50XIzaKCRR2hssIjF07kZFEiieALBM/ARQ=
